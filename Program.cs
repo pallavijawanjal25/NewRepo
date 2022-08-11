@@ -43,7 +43,7 @@ namespace LineCoparison_OppsProblem
             LineComparision_UC3 TwoLineComparison=new LineComparision_UC3();
             TwoLineComparison.CheckTwoLineComparison();
 
-            Console.WriteLine("check line point usin equal and compareTo Methode");
+            Console.WriteLine("check line point using equal and compareTo Methode");
             UC4_OppsLineComparison line = new UC4_OppsLineComparison();
             line.length_line();
             line.check_equality();
