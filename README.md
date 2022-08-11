@@ -10,3 +10,5 @@
 
  -  UC3- LineComparision
  
+  -  UC4- Using Equal and CpmapreTo Method LineComparision
+ 
